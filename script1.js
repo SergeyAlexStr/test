@@ -1,3 +1,4 @@
+'use strict';
 console.log("string"*6);
 let m = 5;
 console.log(m);
@@ -9,3 +10,5 @@ console.log(arr[1]);
 
 let answer = prompt('Есть ли вам 18?', 'Да');
 console.log(typeof(arr));
+
+console.log("Для первого коммита")
